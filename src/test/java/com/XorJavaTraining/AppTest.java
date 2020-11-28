@@ -25,9 +25,4 @@ public class AppTest
         assertFalse(false);
     }
     
-    @Test
-    public void testA()
-    {
-        assertFalse(false);
-    }
-}
+   }
