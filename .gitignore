@@ -1,0 +1,10 @@
+/target/
+/.metadata/*
+/.settings/
+/.classpath
+/.project
+/AutomationOutput/
+/test-output/
+/testng.xml/
+/test-output/
+/bin/
